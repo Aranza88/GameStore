@@ -1,0 +1,4 @@
+123456, Admin, contrasena
+42634, Admin2, Holi
+65427, Admin3, contrasena
+48132, Admin1, patata

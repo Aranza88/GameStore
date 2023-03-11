@@ -1,0 +1,1 @@
+Cliente1, contrasena, 150.0, 2, 1, 1

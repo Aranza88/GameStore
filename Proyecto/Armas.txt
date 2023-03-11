@@ -1,0 +1,2 @@
+Lanza, CRIT, 1, 325, El enemigo se congela por 6 segundos cada 10 golpes., 400.0
+Lanza, HP, 1, 424, Da¤o adicional cada 4 golpes., 300.0
